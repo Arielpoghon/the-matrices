@@ -1,0 +1,3 @@
+- [x] Update `.foundation-grid` CSS for responsive grid layout (1 column mobile, 3 tablet, 3 desktop)
+- [x] Add responsive styles for `.foundation-card` elements
+- [ ] Test layout on different screen sizes
